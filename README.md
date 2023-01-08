@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kathirmaaran
-- 👀 I’m interested in game design
+- 👀 I’m interested in Python Developing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me gmail @hemandhnandhini@gmail.com
